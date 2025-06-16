@@ -464,7 +464,7 @@ main {
 .product__btn-left {
   width: 50px;
   height: 50px;
-  background-image: url("./icons/arrow-left.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/icons/arrow-left.png");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #FFFFFF;
@@ -477,7 +477,7 @@ main {
 .product__btn-right {
   width: 50px;
   height: 50px;
-  background-image: url("./icons/arrow-right.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/icons/arrow-right.png");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #FFFFFF;
@@ -876,7 +876,7 @@ main {
 .reviews__btn-left {
   width: 50px;
   height: 50px;
-  background-image: url("./icons/arrow-left.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/icons/arrow-left.png");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #FFFFFF;
@@ -889,7 +889,7 @@ main {
 .reviews__btn-right {
   width: 50px;
   height: 50px;
-  background-image: url("./icons/arrow-right.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/icons/arrow-right.png");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #FFFFFF;
@@ -911,13 +911,13 @@ main {
   padding: 18px;
 }
 .reviews .item-1 {
-  background-image: url("./prviews/1.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/prviews/1.png");
 }
 .reviews .item-2 {
-  background-image: url("./prviews/2.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/prviews/2.png");
 }
 .reviews .item-3 {
-  background-image: url("./prviews/3.png");
+  background-image: url("https://tereshonkov.github.io/Furniture/prviews/3.png");
 }
 @media (max-width: 1279px) {
   .reviews .item-3 {
